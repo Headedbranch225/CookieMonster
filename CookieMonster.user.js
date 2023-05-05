@@ -1,6 +1,8 @@
 // ==UserScript==
 // @name Cookie Monster
-// @include /https?://orteil.dashnet.org/cookieclicker/
+// @version 1
+// @description load cookie monster mod
+// @match /https?://orteil.dashnet.org/cookieclicker/
 // ==/UserScript==
 
 const readyCheck = setInterval(() => {
